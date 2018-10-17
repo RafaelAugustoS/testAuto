@@ -1,0 +1,10 @@
+version: 1.9.3
+files:
+  - url: pendencias-1.9.3-mac.zip
+    sha512: ghf3GPA9EVDud+qGpx/xNDcaORRfw5g+FKJgbo0LUX85Jv8WLc9G4xJMhAuedpjf4Z5LCFmAWWYLpAS//yQfBQ==
+  - url: Signa-1.9.3.dmg
+    sha512: xF4lzw7CXLq5I4p8FL49lVcjr/oAGvJv1VgP3SsPUbRSGqmJxeQtwIe54GKadiigrDWtCVvA5moKJrRDU1eu9A==
+    size: 57647837
+path: pendencias-1.9.3-mac.zip
+sha512: ghf3GPA9EVDud+qGpx/xNDcaORRfw5g+FKJgbo0LUX85Jv8WLc9G4xJMhAuedpjf4Z5LCFmAWWYLpAS//yQfBQ==
+releaseDate: '2018-08-29T10:53:17.968Z'
